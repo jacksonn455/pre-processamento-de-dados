@@ -33,3 +33,11 @@ O tratamento de valores faltantes é uma etapa essencial no pré-processamento d
 - [Documentação do Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Google Colab](https://colab.research.google.com/)
+
+## Autor
+
+| [<img src="https://avatars1.githubusercontent.com/u/46221221?s=460&u=0d161e390cdad66e925f3d52cece6c3e65a23eb2&v=4" width=115><br><sub>@jacksonn455</sub>](https://github.com/jacksonn455) |
+| :---: |
+
+--------------------
+![](https://github.com/jacksonn455/kdd-topicos-especiais-computacao/blob/main/results/distribuicoes_verde_suave.png)
