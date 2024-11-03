@@ -40,4 +40,4 @@ O tratamento de valores faltantes é uma etapa essencial no pré-processamento d
 | :---: |
 
 --------------------
-![](https://github.com/jacksonn455/kdd-topicos-especiais-computacao/blob/main/results/distribuicoes_verde_suave.png)
+![](https://github.com/jacksonn455/pre-processamento-de-dados/blob/main/Screenshot%202024-11-03%20185438.png)
